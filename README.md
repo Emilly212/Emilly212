@@ -7,8 +7,6 @@ O GitHub é o meu laboratório aqui eu testo, erro, e aprendo pra evoluir cada v
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGljaGpsdnlubGxqOHU2ZG9la2JyZDVscGQ4eXc4NGRnbG9qNTVzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiSfckngHK5oGRKb1B/giphy.gif"  />
-
 ###
 
 <div align="left">
