@@ -61,11 +61,7 @@ O GitHub é o meu laboratório aqui eu testo, erro, e aprendo pra evoluir cada v
   </a>
 </div>
 
-
-
 ###
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXc5aHpwc3gxODdiOWpmbDVjOXJjYXRlbmg0Mm53amVuOTBuZHU2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="2000"/>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Emilly212/Emilly212/output/pacman-contribution-graph-dark.svg">
@@ -73,5 +69,12 @@ O GitHub é o meu laboratório aqui eu testo, erro, e aprendo pra evoluir cada v
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Emilly212/Emilly212/output/pacman-contribution-graph.svg">
 </picture>
 
+
+
+
+
+
+##
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXc5aHpwc3gxODdiOWpmbDVjOXJjYXRlbmg0Mm53amVuOTBuZHU2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="2000"/>
 
 
