@@ -6,10 +6,10 @@ O GitHub é o meu laboratório aqui eu testo, erro, e aprendo pra evoluir cada v
 ---
 
 ###
-### 📊 Minhas Estatísticas do GitHub
+### algumas Estatísticas no git
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emilly212&show_icons=true&theme=radical)
-### 📌 GitHub Stats
+
 
 ![](https://raw.githubusercontent.com/Emilly212/Emilly212/master/profile-summary-card-output/monokai/3-stats.svg)
 ![](https://raw.githubusercontent.com/Emilly212/Emilly212/master/profile-summary-card-output/monokai/1-repos-per-language.svg)
