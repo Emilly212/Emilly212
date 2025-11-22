@@ -6,6 +6,11 @@ O GitHub é o meu laboratório aqui eu testo, erro, e aprendo pra evoluir cada v
 ---
 
 ###
+### 📌 GitHub Stats
+
+![](https://raw.githubusercontent.com/Emilly212/Emilly212/master/profile-summary-card-output/monokai/3-stats.svg)
+![](https://raw.githubusercontent.com/Emilly212/Emilly212/master/profile-summary-card-output/monokai/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Emilly212/Emilly212/master/profile-summary-card-output/monokai/2-most-commit-language.svg)
 
 ###
 
