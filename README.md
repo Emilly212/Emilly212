@@ -1,6 +1,6 @@
 <h1 align="left">opaa tudo bom </h1>
 
- Me chamo Mirela, tenho 21 anos, sou de Goiânia, atualmente estou cursando engenharia de software na Universidade Federal de Goiás (ufg) sou apaixonada por tecnologia. 
+ Me chamo Mirela, tenho 22 anos, sou de Goiânia, atualmente estou cursando engenharia de software na Universidade Federal de Goiás (ufg) sou apaixonada por tecnologia. 
 O GitHub é o meu laboratório aqui eu testo, erro, e aprendo pra evoluir cada vez mais
 
 ---
